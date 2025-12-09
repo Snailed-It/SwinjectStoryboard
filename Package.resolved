@@ -3,11 +3,11 @@
     "pins": [
       {
         "package": "Swinject",
-        "repositoryURL": "https://github.com/Swinject/Swinject.git",
+        "repositoryURL": "https://github.com/Snailed-It/Swinject.git",
         "state": {
-          "branch": null,
-          "revision": "8a76d2c74bafbb455763487cc6a08e91bad1f78b",
-          "version": "2.7.1"
+          "branch": "restore-loggingFunction",
+          "revision": "598d7f6422e8d82132631b597b0f8e5842499ddc",
+          "version": null
         }
       }
     ]
