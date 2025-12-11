@@ -12,7 +12,7 @@ let package = Package(
         .library(name: "SwinjectStoryboard", targets: ["SwinjectStoryboard"]),
     ],
     dependencies: [
-        .package(url: "https://github.com/Snailed-It/Swinject.git", .branch("restore-loggingFunction")),
+        .package(url: "https://github.com/Snailed-It/Swinject.git", .upToNextMajor(from: "2.10.1")),
     ],
     targets: [
         .target(
